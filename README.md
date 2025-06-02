@@ -78,7 +78,6 @@ Let’s build something awesome!
 - **📫 Contact me in :** &nbsp;
 
 <p align="center">
-  <>
     <img alt="Discord" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289d9&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   <a href="https://t.me/abitarvez">
@@ -95,12 +94,12 @@ Let’s build something awesome!
     <img alt="Github" src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
 </p>
-<p align="right">
+<p align="center">
   <a href="https://discord.gg/vMJjPqPsHU" target="_blank"> 
     <img src="https://discord.com/api/guilds/971080704672796682/widget.png?style=banner4" >
   </a>
 </p>
-<p align="right">
+<p align="center">
   <a href="https://discord.gg/vMJjPqPsHU">
     <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/841896204563775518.png"  />
   </a>
