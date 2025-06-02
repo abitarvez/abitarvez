@@ -44,19 +44,18 @@ Let’s build something awesome!
 
 # 🛠️ My Skills
 <div align="center">  
-<a href="https://discord.gg/WMhke7BW7J">
-<img src ="https://skillicons.dev/icons?i=css,cpp,py,bots,c&theme=dark">
-<img src ="https://skillicons.dev/icons?i=ts,dotnet,unity,nodejs&theme=dark">
-<img src ="https://skillicons.dev/icons?i=js,java,html,bash&theme=dark">
+<a>
+<img src ="https://skillicons.dev/icons?i=html,css,php,wordpress&theme=dark">
+<img src ="https://skillicons.dev/icons?i=linux,kali,py,bash&theme=dark">
+<img src ="https://skillicons.dev/icons?i=cs,dotnet,unity,blender,visualstudio&theme=dark">
 </a>
 </div>
 
 # 🎓 Learning Langs
 <div align="center">  
-<a href="https://discord.gg/WMhke7BW7J">
-<img src ="https://skillicons.dev/icons?i=css,cpp,py,bots,c&theme=dark">
-<img src ="https://skillicons.dev/icons?i=ts,dotnet,unity,nodejs&theme=dark">
-<img src ="https://skillicons.dev/icons?i=js,java,html,bash&theme=dark">
+<a>
+<img src ="https://skillicons.dev/icons?i=dart,flutter,php,js&theme=dark">
+<img src ="https://skillicons.dev/icons?i=js,unity,unreal&theme=dark">
 </a>
 </div>
 
@@ -65,7 +64,7 @@ Let’s build something awesome!
 # 🎸 Using Apps
 <div align="center">  
 <a href="https://discord.gg/WMhke7BW7J">
-<img src ="https://skillicons.dev/icons?i=discord,ae,git,pr&theme=dark">
+<img src ="https://skillicons.dev/icons?i=discord,ableton,git,pr&theme=dark">
 <img src ="https://skillicons.dev/icons?i=powershell,linux,github,vscode&theme=dark">
 <img src ="https://skillicons.dev/icons?i=instagram,gcp&theme=dark">
 </a>
