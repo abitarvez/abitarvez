@@ -63,7 +63,7 @@ Let’s build something awesome!
 
 # 🎸 Using Apps
 <div align="center">  
-<a href="https://discord.gg/WMhke7BW7J">
+<a>
 <img src ="https://skillicons.dev/icons?i=ps,pr,ai,xd,figma&theme=dark">
 <img src ="https://skillicons.dev/icons?i=notion,vim,vscode&theme=dark">
 <img src ="https://skillicons.dev/icons?i=discord,ableton,git,github&theme=dark">
@@ -78,32 +78,26 @@ Let’s build something awesome!
 - **📫 Contact me in :** &nbsp;
 
 <p align="center">
-  <a href="https://zil.ink/sobhan.srza">
-    <img align="left" src ="source/social-media.png" width = 50% >
-  </a>
-  <a href="https://discord.gg/WMhke7BW7J">
+  <>
     <img alt="Discord" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289d9&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
-  <a href="https://t.me/SobhanSRZA">
+  <a href="https://t.me/abitarvez">
     <img alt="Telegram" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
-  <a href="https://www.instagram.com/srza._.gamer/">
+  <a href="https://www.instagram.com/abiteravez/">
     <img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   </a>
-  <a href="https://www.twitch.tv/sobhan_srza">
-    <img alt="Twitch" src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=6441A4&logoColor=white&labelColor=&style=flat" height="30" />
-  </a>
-  <a href="https://b2n.ir/srza-.-gamer">
+  <a href="https://www.youtube.com/channel/@abitarvez">
     <img alt="YouTube" src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
-  <a href="https://github.com/Sobhan-SRZA">
+  <a href="https://github.com/abitarvez">
     <img alt="Github" src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
 </p>
 <p align="right">
   <a href="https://discord.gg/vMJjPqPsHU" target="_blank"> 
-    <img src="https://discord.com/api/guilds/912596015075455016/widget.png?style=banner2" alt="sizar-team.png">
+    <img src="https://discord.com/api/guilds/971080704672796682/widget.png?style=banner2" >
   </a>
 </p>
 <p align="right">
