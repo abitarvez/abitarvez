@@ -9,14 +9,6 @@ I am **Abi** and my real name is *Abolfazl Ramezani*
 🎥 Making fun and chill dev content on YouTube
 Let’s build something awesome!
 
- - **📊 All Github Info** &nbsp; 
-
-<p align="center">
-  <a href="https://github.com/abitarvez/">
-    <img alt="All Informations" src="https://metrics.lecoq.io/abitarvez" />
-  </a>
-</p>
-
 ---
 
  ## 💻 Coding Activity
@@ -24,16 +16,16 @@ Let’s build something awesome!
 <p align="center">
 
   <a href="https://github.com/Sobhan-SRZA?tab=followers">
-     <img alt="Followers" src="https://img.shields.io/github/followers/Sobhan-SRZA?style=social">
+     <img alt="Followers" src="https://img.shields.io/github/followers/abitarvez?style=social">
   </a>
   <a href="https://discord.gg/WMhke7BW7J">
-     <img alt="Total Stars" src="https://img.shields.io/github/stars/Sobhan-SRZA?style=social">
+     <img alt="Total Stars" src="https://img.shields.io/github/stars/abitarvez?style=social">
   </a>
   <a href="https://github.com/Sobhan-SRZA/">
-     <img src="https://komarev.com/ghpvc/?username=Sobhan-SRZA">
+     <img src="https://komarev.com/ghpvc/?username=abitarvez">
   </a>
   <a href="https://github.com/Sobhan-SRZA/How-Create-Discord-Bot">
-     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sobhan-SRZA/How-Create-Discord-Bot">
+     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/abitarvez/How-Create-Discord-Bot">
   </a>
   <a href="https://discord.gg/WMhke7BW7J" target="_blank"> 
     <img src="https://discordapp.com/api/guilds/912596015075455016/widget.png?style=shield" alt="shield.png">
