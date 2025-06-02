@@ -97,7 +97,7 @@ Let’s build something awesome!
 </p>
 <p align="right">
   <a href="https://discord.gg/vMJjPqPsHU" target="_blank"> 
-    <img src="https://discord.com/api/guilds/971080704672796682/widget.png?style=banner2" >
+    <img src="https://discord.com/api/guilds/971080704672796682/widget.png" >
   </a>
 </p>
 <p align="right">
