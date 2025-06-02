@@ -54,7 +54,7 @@ Let’s build something awesome!
 # 🎓 Learning Langs
 <div align="center">  
 <a>
-<img src ="https://skillicons.dev/icons?i=dart,flutter,php,js&theme=dark">
+<img src ="https://skillicons.dev/icons?i=dart,flutter,php&theme=dark">
 <img src ="https://skillicons.dev/icons?i=js,unity,unreal&theme=dark">
 </a>
 </div>
@@ -64,9 +64,9 @@ Let’s build something awesome!
 # 🎸 Using Apps
 <div align="center">  
 <a href="https://discord.gg/WMhke7BW7J">
-<img src ="https://skillicons.dev/icons?i=discord,ableton,git,pr&theme=dark">
-<img src ="https://skillicons.dev/icons?i=powershell,linux,github,vscode&theme=dark">
-<img src ="https://skillicons.dev/icons?i=instagram,gcp&theme=dark">
+<img src ="https://skillicons.dev/icons?i=ps,pr,ai,xd,figma&theme=dark">
+<img src ="https://skillicons.dev/icons?i=notion,vim,vscode&theme=dark">
+<img src ="https://skillicons.dev/icons?i=discord,ableton,git,github&theme=dark">
 </a>
 </div>
 </td></tr></table>  
